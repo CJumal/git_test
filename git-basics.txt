@@ -1,0 +1,9 @@
+Git steps
+git clone
+git add 
+git status
+git commit -m or git commit .
+git status
+git log
+git push 
+git status
